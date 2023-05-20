@@ -1,0 +1,23 @@
+[
+    {
+        "id"          : 1,
+        "title"       : "Article A",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita porro sunt adipisci quisquam, voluptatibus eum voluptatum laboriosam. Voluptatem libero, explicabo ex, error optio, molestias eum dolorum sapiente ipsum facilis veniam!",
+        "author"      : "Louis Roby"
+    },
+
+    {
+        "id"          : 2,
+        "title"       : "Article B",
+        "description" : "Lorem, ipsum dolor sit. Expedita porro sunt adipisci quisquam, voluptatibus eum voluptatum laboriosam. Voluptatem libero, explicabo ex, error optio, molestias eum dolorum sapiente ipsum facilis veniam!",
+        "author"      : "Aimil Dégno"
+    },
+
+    {
+        "id"          : 3,
+        "title"       : "Article C",
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita porro sunt adipisci quisquam, voluptatibus eum voluptatum laboriosam. Bo ex, error optio, molestias eum dolorum sapiente ipsum facilis veniam!",
+        "author"      : "Failickse"
+    }
+
+]
